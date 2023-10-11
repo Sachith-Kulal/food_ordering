@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "655864745351",
+    "project_id": "food-ordering-applicatio-26ad3",
+    "storage_bucket": "food-ordering-applicatio-26ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655864745351:android:588ea2276310946c871722",
+        "android_client_info": {
+          "package_name": "com.example.food_ordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655864745351-meutpvglr88780qq98v8c2ra1lcdkonp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDErE3AJqQc4oGLwFkXRvJ5Ly0vj5YL1f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655864745351-meutpvglr88780qq98v8c2ra1lcdkonp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655864745351-a9jloroka5ennu6521hoje21e8efep7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.foodorderingapplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655864745351:android:980c127d57f8dce5871722",
+        "android_client_info": {
+          "package_name": "com.mycompany.foodorderingapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655864745351-meutpvglr88780qq98v8c2ra1lcdkonp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDErE3AJqQc4oGLwFkXRvJ5Ly0vj5YL1f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655864745351-meutpvglr88780qq98v8c2ra1lcdkonp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655864745351-a9jloroka5ennu6521hoje21e8efep7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.foodorderingapplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
